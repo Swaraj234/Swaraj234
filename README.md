@@ -82,6 +82,6 @@ A full-stack matchmaking platform built with Django and React.
 
 - GitHub: https://github.com/Swaraj234
 - LinkedIn:https://www.linkedin.com/in/swaraj-tale-58b470294/
-- Email: your-email@example.com
+- Email: officialswaraj123@gmail.com
 
 ⭐ Open to Backend Engineer, Full Stack Developer, and Software Engineer opportunities.
