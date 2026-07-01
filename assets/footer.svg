@@ -1,0 +1,59 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#14141c"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0.55"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c0caf5"/>
+      <stop offset="100%" stop-color="#7aa2f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#footerBg)"/>
+
+  <path fill="url(#waveGrad)" opacity="0.35">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,40 C300,90 900,0 1200,50 L1200,0 L0,0 Z;
+        M0,20 C300,10 900,90 1200,30 L1200,0 L0,0 Z;
+        M0,40 C300,90 900,0 1200,50 L1200,0 L0,0 Z" />
+  </path>
+
+  <path fill="none" stroke="url(#waveGrad)" stroke-width="1.4" opacity="0.7">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,40 C300,90 900,0 1200,50;
+        M0,20 C300,10 900,90 1200,30;
+        M0,40 C300,90 900,0 1200,50" />
+  </path>
+
+  <text x="600" y="105" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="20" font-weight="600" fill="url(#textGrad)">
+    Thanks for stopping by — let's build something worth shipping.
+  </text>
+
+  <text x="600" y="134" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace"
+        font-size="13" fill="#565f89">
+    Swaraj Deshmukh · Backend Engineer · github.com/Swaraj234
+  </text>
+
+  <g fill="#414868">
+    <circle cx="600" cy="156" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="612" cy="156" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="624" cy="156" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

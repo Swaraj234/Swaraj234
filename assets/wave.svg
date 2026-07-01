@@ -1,0 +1,19 @@
+<svg width="1200" height="40" viewBox="0 0 1200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#16161e" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#7aa2f7" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.8"/>
+      <stop offset="85%" stop-color="#7dcfff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#16161e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="none" stroke="url(#waveLine)" stroke-width="1.6" stroke-linecap="round">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,20 C150,5 300,35 450,20 C600,5 750,35 900,20 C1000,10 1100,28 1200,20;
+        M0,20 C150,35 300,5 450,20 C600,35 750,5 900,20 C1000,30 1100,12 1200,20;
+        M0,20 C150,5 300,35 450,20 C600,5 750,35 900,20 C1000,10 1100,28 1200,20" />
+  </path>
+</svg>

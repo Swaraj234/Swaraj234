@@ -1,0 +1,20 @@
+<svg width="1200" height="4" viewBox="0 0 1200 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="baseLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2a2e42" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2a2e42"/>
+      <stop offset="100%" stop-color="#2a2e42" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="1.5" width="1200" height="1" fill="url(#baseLine)"/>
+
+  <rect x="-200" y="0" width="200" height="4" fill="url(#shimmer)">
+    <animate attributeName="x" values="-200;1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
