@@ -229,7 +229,7 @@ A full-duplex messaging app built on the MERN stack with Socket.IO, supporting a
 <img src="https://img.shields.io/badge/Socket.IO-16161E?style=flat-square&logo=socketdotio&logoColor=C0CAF5" />
 
 <a href="https://github.com/Swaraj234/chat-app-byswaraj"><img src="https://img.shields.io/badge/GitHub-1F2335?style=for-the-badge&logo=github&logoColor=C0CAF5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-BB9AF7?style=for-the-badge&logo=vercel&logoColor=16161E" /></a>
+<a href="https://chat-app-byswaraj.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-BB9AF7?style=for-the-badge&logo=vercel&logoColor=16161E" /></a>
 
 </td>
 </tr>
@@ -253,7 +253,7 @@ A full-featured matrimonial web platform with authenticated profiles, a modern m
 <img src="https://img.shields.io/badge/Node.js-16161E?style=flat-square&logo=nodedotjs&logoColor=9ECE6A" />
 
 <a href="https://github.com/Vishalp2685/natejulva"><img src="https://img.shields.io/badge/GitHub-1F2335?style=for-the-badge&logo=github&logoColor=C0CAF5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7DCFFF?style=for-the-badge&logo=vercel&logoColor=16161E" /></a>
+<a href="https://natejulva.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7DCFFF?style=for-the-badge&logo=vercel&logoColor=16161E" /></a>
 
 </td>
 <td width="50%" valign="top">
