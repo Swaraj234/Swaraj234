@@ -214,7 +214,7 @@ AI-driven mock interview platform with live speech-to-text, facial emotion detec
 
 #### 💬 Real-Time Chat Application
 
-A full-duplex messaging app built on the MERN stack with Socket.IO, supporting authenticated sessions and instant delivery across a clean, responsive interface.
+ A full-duplex messaging app built on the MERN stack with Socket.IO, supporting authenticated sessions and instant delivery across a clean, responsive interface.
 
 **Key Features**
 - Secure authentication
