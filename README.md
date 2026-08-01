@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Backend+Engineer;Full+Stack+Developer;Java+Developer;Open+Source+Contributor;Building+AI+Powered+Applications;Always+Learning" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/> <br/>
 
 <a href="https://www.linkedin.com/in/swaraj-tale-58b470294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:officialswaraj123@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
